@@ -8,6 +8,7 @@
  - [References](#references)
  ## Analysis
  ### Data Source: Kaggle
+
  ### Tool(s): Microsoft excel
  ### Objective: To identify key factors influencing employee attrition and develop actionable strategic recommendation to improve employee retention.
  ### Methodology & Procedures
@@ -32,6 +33,8 @@ Used visual dashboards (as shown) to explore relationships between:
 Attrition vs. Department, Job Role, Business Travel
 Attrition vs. Age, Education Level, Marital Status
 Demographic distributions and tenure patterns
+![Attrition](https://github.com/user-attachments/assets/4e651cfd-1b95-465b-8306-623b94c362ee)
+![Demographics](https://github.com/user-attachments/assets/944cca83-25e0-44cb-80c0-09ad5c8389aa)
 
 ##### E. Insight Extraction
 Analyzed charts and graphs to spot trends and outliers.

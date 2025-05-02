@@ -1,4 +1,23 @@
- # Employee Attrition Analysis Dashboards with key insights and general recommendation (https://ricky2-rita.github.io/My-Data-Journey/Employee-Attrition-Analysis-Dashboards-)
+ # [Employee Attrition Analysis Dashboards with key insights and general recommendation](https://ricky2-rita.github.io/My-Data-Journey/Employee-Attrition-Analysis-Dashboards-)
+ ## Table of content
+ - [Data Source](#data-source)
+ - [Tool(s)](#tool(s))
+ - [Objective](#objective)
+ - [Methodology & Procedures](#methodoloy-&-procedures)
+ - [Data Collection](#data-collection)
+ - [Data Cleaning](#data-cleaning)
+ - [Data Transformation](#data-transformation)
+ - [Visualization](#visualization)
+ - [Insight Extraction](#insight-extraction)
+ - [Overview](#overview)
+ - [Key Insights](#key-insights)
+ - [Demographics](#demographics)
+ - [Department & Job Role](#department-job-role)
+ - [Business Travel](#business-travel)
+ - [Location](#location)
+ - [Recommendations](#recommendations)
+ - [Limitations of the Analysis](#limitation-of-the-analysis)
+ - [References](#references)
 
  ### Data Source: Kaggle
  ### Tool(s): Microsoft excel
@@ -133,5 +152,8 @@ While education level and field are included, there's limited insight into how e
 ##### 8. External Factors Not Considered:
 Economic shifts, industry trends, personal life events, or pandemic-related impacts are not captured in the dataset but can influence attrition.
 
-
+### References
+##### 1. Kaggle Dataset Source
+- IBM HR Analytics Employee Attrition & Performance Dataset
+- [Retried from:](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 

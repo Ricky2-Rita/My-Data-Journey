@@ -4,9 +4,9 @@
 
 Here is an analysis of the Employee Attrition Analysis Dashboards along with key insights and general recommendations:
 
-Key Insights
+*Key Insights
 
-1. General Overview
+*1. General Overview
 Total Employees: 1,470
 Active Employees: 1,233 (84%)
 Attrition Rate: 16% (237 employees)

@@ -1,79 +1,115 @@
  # Employee Attrition Analysis Dashboards with key insights and general recommendation (https://ricky2-rita.github.io/My-Data-Journey/Employee-Attrition-Analysis-Dashboards-)
 
-## Here is an analysis of the Employee Attrition Analysis Dashboards along with key insights and general recommendations:
+ ### Data Source: Kaggle
+ ### Tool(s): Microsoft excel
+ ### Objective: To identify key factors influencing employee attrition and develop actionable strategic recommendation to improve employee retention.
+ ### Methodology & Procedures
+ #### To ensure accurate and insightful analysis, the following data processing steps were followed:
 
-## Key Insights
+##### A. Data Collection
+Sourced a comprehensive Employee Attrition dataset from Kaggle.
+The dataset includes employee demographics, job roles, education, salaries, tenure, and attrition status.
 
-### 1. General Overview
+##### B. Data Cleaning
+Handled Missing Values: Checked for nulls and removed or imputed missing entries as needed.
+Standardized Categorical Variables: Normalized gender, marital status, department, and education levels for consistency.
+Filtered Relevant Columns: Retained columns that contribute directly to attrition analysis, e.g., age, job role, business travel, education, etc.
+
+##### C. Data Transformation
+Created Age Groups: For clearer analysis of attrition by age bracket.
+Grouped Job Roles and Departments: To identify areas with the highest attrition rates.
+Calculated Attrition Rate: Added a metric to quantify the percentage of employees who left.
+
+##### D. Visualization
+Used visual dashboards (as shown) to explore relationships between:
+Attrition vs. Department, Job Role, Business Travel
+Attrition vs. Age, Education Level, Marital Status
+Demographic distributions and tenure patterns
+
+##### E. Insight Extraction
+Analyzed charts and graphs to spot trends and outliers.
+Identified high-risk groups for attrition and potential causes based on travel demands, job stress, or career stagnation.
+ 
+ ### 1. Overview
+ ##### This analysis explores employee attrition trends using demographic, departmental, educational, and job-related data. The goal is to uncover patterns and potential causes of attrition, helping organizations make data-driven decisions to reduce turnover and improve employee satisfaction.
 Total Employees: 1,470
+
 Active Employees: 1,233 (84%)
-Attrition Rate: 16% (237 employees)
+
+Total Attrition: 237 (16%)
+
 Average Tenure: 4.56 years
-Total Salaries Paid: $166 million+
 
-### 2. Attrition by Demographics
-#### Gender:
-Female (675) and Male (651) employees are nearly equal.
-Slightly more females have left, but overall attrition is balanced across genders.
+Total Annual Salaries: $166,046,052
+### 2. Key Insights
 
-#### Marital Status:
-Married employees form the largest group (624), but single employees (549) may show higher attrition.
+#### A. Demographics
 
-#### Age:
-Most employees are aged 25–30; high attrition appears around this range.
+Gender: Fairly balanced (675 females, 651 males); similar attrition across genders.
 
-#### Education Level:
-Bachelor's holders (572) and Master's (398) are the largest groups.
-Highest attrition seen among those with Bachelor's degrees, possibly due to career shifts or job dissatisfaction.
+Age: Highest concentration between 25–30 years, also the peak attrition age.
 
-### 3. Attrition by Role & Department
-##### Top Departments by Headcount:
-Technology (961)
+Marital Status: Most employees are married (624), followed by single (549); younger, single employees may be more prone to leaving.
+
+Education Level: Highest numbers in Bachelor’s (572) and Master’s (398) holders, with Bachelor’s degree holders showing higher attrition.
+
+#### B. Department & Job Role
+
+##### Top Departments:
+
+Technology (961 employees)
+
 Sales (446)
-Human Resources (63)
 
-#### Job Roles with Highest Numbers:
-Software Engineer (294)
-Sales Executive (327)
-Data Scientist (261)
+HR (63)
 
-#### Attrition Rates:
-Highest in Sales and Software Engineering roles.
-HR and managerial roles have lower attrition, possibly due to job security or less stress.
+##### Job Roles with High Headcounts:
 
-### 4. Attrition by Geography
-##### States:
-CA (875), NY (419), IL (176)
-Higher concentration in CA, but more granular attrition data by state would help pinpoint issues.
+Sales Executive (327), Software Engineer (294), Data Scientist (261)
 
-### 5. Attrition by Business Travel
-Employees with "Some Travel" (1,043) experience higher attrition, indicating possible travel fatigue or work-life imbalance.
-Frequent travelers (277) have moderate attrition, while No travel group (150) is the smallest, likely due to fewer job roles not requiring travel.
+##### High Attrition Jobs:
 
+Sales Executives and Software Engineers show significant attrition.
+
+#### C. Business Travel
+
+Employees with “Some Travel” (1,043) exhibit the highest attrition, suggesting a link between travel and job dissatisfaction or fatigue.
+
+#### D. Location
+
+Majority of employees are from California (875), followed by New York (419) and Illinois (176).
 
 
-### Recommendations
+### 3. Recommendations
 
-#### 1. Conduct Exit Interviews & Surveys:
-Especially in high-attrition roles like Sales and Software Engineering.
+##### 1. Investigate Key Attrition Roles:
 
-Focus on job satisfaction, workload, career development, and manager support.
+Focus retention strategies on Sales Executives and Software Engineers, including workload management and incentive structures.
 
-#### 2. Offer Career Development Opportunities:
-Provide upskilling and promotion tracks for Bachelor's and Master's degree holders to retain talent.
+##### 2. Strengthen Career Development:
 
-#### 3. Re-evaluate Work Travel Requirements:
+Create clear advancement paths for Bachelor’s and Master’s degree holders to boost retention.
 
-For roles involving "Some Travel", consider offering flexible travel options or remote alternatives.
+##### 3. Reassess Travel Policies:
 
-#### 4. Support Younger Workforce:
+Introduce travel alternatives or support systems for employees with “Some Travel” responsibilities.
 
-Since younger employees (25–30) are most prevalent and experience high attrition, offer mentorship, onboarding support, and clear career paths.
+##### 4. Support Younger Employees:
 
-#### 5. Improve Retention in Sales:
+Tailor onboarding, mentoring, and career planning for employees aged 25–30 to help them settle and grow.
 
-Revisit compensation structure, workload distribution, and recognition for performance to keep Sales talent engaged.
+##### 5. Enhance Work-Life Balance:
 
-#### 6. Leverage Data for Targeted Retention Programs:
+Offer flexible work options, especially for single and younger staff who may experience burnout more easily.
 
-Use role, age, and marital status patterns to customize employee engagement programs.
+##### 6. Use Data-Driven HR Strategies:
+
+Leverage demographic and role-specific insights to create targeted engagement and retention programs.
+
+
+
+
+
+---
+ #### 
+

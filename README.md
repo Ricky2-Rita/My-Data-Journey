@@ -2,9 +2,9 @@
 
 # Employee Attrition Analysis Dashboards with key insights and general recommendation (https://ricky2-rita.github.io/My-Data-Journey/Employee-Attrition-Analysis-Dashboards-)
 
-#Here is an analysis of the Employee Attrition Analysis Dashboards along with key insights and general recommendations:
+# Here is an analysis of the Employee Attrition Analysis Dashboards along with key insights and general recommendations:
 
-##Key Insights
+# Key Insights
 
 #1. General Overview
 Total Employees: 1,470

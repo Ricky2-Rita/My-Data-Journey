@@ -107,9 +107,31 @@ Offer flexible work options, especially for single and younger staff who may exp
 Leverage demographic and role-specific insights to create targeted engagement and retention programs.
 
 
+### 4. Limitations of the Analysis
+
+##### 1. Static Historical Data:
+The dataset is based on past employee records and may not reflect current workplace dynamics or recent policy changes.
+
+##### 2. Lack of Qualitative Insights:
+While the data provides quantitative indicators (age, role, tenure, etc.), it lacks qualitative factors like employee satisfaction, management quality, or company culture, which significantly affect attrition.
+
+##### 3. Assumed Causality:
+The analysis identifies correlations (e.g., high attrition in sales), but does not establish direct cause-and-effect relationships without further qualitative validation.
+
+##### 4. Geographical Generalization:
+The dataset includes only three states (CA, NY, IL), which limits the generalizability of findings to a broader workforce across other locations.
+
+##### 5. Imbalanced Department Sizes:
+The Technology department accounts for a disproportionately large share of employees, which might skew overall attrition patterns.
+
+##### 6. Simplified Travel Categories:
+The “Business Travel” variable is broad and doesn't differentiate between occasional long-distance travel and frequent short commutes, which may affect employees differently.
+
+##### 7. Educational Field Gaps:
+While education level and field are included, there's limited insight into how educational background directly impacts job satisfaction or performance.
+
+##### 8. External Factors Not Considered:
+Economic shifts, industry trends, personal life events, or pandemic-related impacts are not captured in the dataset but can influence attrition.
 
 
-
----
- #### 
 

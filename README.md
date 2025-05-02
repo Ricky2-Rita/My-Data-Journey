@@ -6,15 +6,15 @@
 
 # Key Insights
 
-#1. General Overview
+# 1. General Overview
 Total Employees: 1,470
 Active Employees: 1,233 (84%)
 Attrition Rate: 16% (237 employees)
 Average Tenure: 4.56 years
 Total Salaries Paid: $166 million+
 
-2. Attrition by Demographics
-Gender:
+# 2. Attrition by Demographics
+## Gender:
 Female (675) and Male (651) employees are nearly equal.
 Slightly more females have left, but overall attrition is balanced across genders.
 

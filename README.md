@@ -1,24 +1,12 @@
- # [Employee Attrition Analysis Dashboards with key insights and general recommendation](https://ricky2-rita.github.io/My-Data-Journey/Employee-Attrition-Analysis-Dashboards-)
+ # Employee Attrition Analysis Dashboards with key insights and general recommendation
  ## Table of content
- - [Data Source](#data-source)
- - [Tool(s)](#tool(s))
- - [Objective](#objective)
- - [Methodology & Procedures](#methodoloy-&-procedures)
- - [Data Collection](#data-collection)
- - [Data Cleaning](#data-cleaning)
- - [Data Transformation](#data-transformation)
- - [Visualization](#visualization)
- - [Insight Extraction](#insight-extraction)
+ - [Analysis](#analysis)
  - [Overview](#overview)
  - [Key Insights](#key-insights)
- - [Demographics](#demographics)
- - [Department & Job Role](#department-job-role)
- - [Business Travel](#business-travel)
- - [Location](#location)
  - [Recommendations](#recommendations)
- - [Limitations of the Analysis](#limitation-of-the-analysis)
+ - [Limitations of the Analysis](#limitations-of-the-analysis)
  - [References](#references)
-
+ ## Analysis
  ### Data Source: Kaggle
  ### Tool(s): Microsoft excel
  ### Objective: To identify key factors influencing employee attrition and develop actionable strategic recommendation to improve employee retention.
@@ -49,7 +37,7 @@ Demographic distributions and tenure patterns
 Analyzed charts and graphs to spot trends and outliers.
 Identified high-risk groups for attrition and potential causes based on travel demands, job stress, or career stagnation.
  
- ### 1. Overview
+ ###  Overview
  ##### This analysis explores employee attrition trends using demographic, departmental, educational, and job-related data. The goal is to uncover patterns and potential causes of attrition, helping organizations make data-driven decisions to reduce turnover and improve employee satisfaction.
 Total Employees: 1,470
 
@@ -60,7 +48,7 @@ Total Attrition: 237 (16%)
 Average Tenure: 4.56 years
 
 Total Annual Salaries: $166,046,052
-### 2. Key Insights
+###  Key Insights
 
 #### A. Demographics
 
@@ -99,7 +87,7 @@ Employees with “Some Travel” (1,043) exhibit the highest attrition, suggesti
 Majority of employees are from California (875), followed by New York (419) and Illinois (176).
 
 
-### 3. Recommendations
+### Recommendations
 
 ##### 1. Investigate Key Attrition Roles:
 
@@ -126,7 +114,7 @@ Offer flexible work options, especially for single and younger staff who may exp
 Leverage demographic and role-specific insights to create targeted engagement and retention programs.
 
 
-### 4. Limitations of the Analysis
+### Limitations of the Analysis
 
 ##### 1. Static Historical Data:
 The dataset is based on past employee records and may not reflect current workplace dynamics or recent policy changes.

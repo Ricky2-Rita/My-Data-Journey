@@ -41,6 +41,7 @@ Analyzed charts and graphs to spot trends and outliers.
 Identified high-risk groups for attrition and potential causes based on travel demands, job stress, or career stagnation.
  
  ###  Overview
+ ---
  ##### This analysis explores employee attrition trends using demographic, departmental, educational, and job-related data. The goal is to uncover patterns and potential causes of attrition, helping organizations make data-driven decisions to reduce turnover and improve employee satisfaction.
 Total Employees: 1,470
 
@@ -147,4 +148,14 @@ Economic shifts, industry trends, personal life events, or pandemic-related impa
 ##### 1. Kaggle Dataset Source
 - IBM HR Analytics Employee Attrition & Performance Dataset
 - [Retried from:](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+
+😅
+
+💻
+
+|Heading1|Heading2|
+|--------|--------|
+|content|content2|
+|Microsoft Excel|Kaggle|
+
 
